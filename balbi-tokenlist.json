@@ -1,0 +1,19 @@
+{
+  "name": "Balbi Token List",
+  "timestamp": "2025-06-02T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x13B40Cc08f66dBC34ec9CAa746EBAefad0B00528",
+      "name": "BALBI",
+      "symbol": "BALBI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Balbi-Token/balbi-tokenlist/main/balbi-logo.png"
+    }
+  ]
+}
